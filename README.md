@@ -8,7 +8,7 @@ and evaluates the tree to predict categorical attributes based on the user.
 
 ## usage
 - import your training dataset and testing dataset of interest into the data folder.
-- run the main method in the DecisionTreeTester class.
+- in the src folder run the main method in the DecisionTreeTester class.
 
 ## classes
 
